@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/firstFragment"
+        android:title="Tasks"
+        android:icon="@drawable/ic_insert_invitation_24px"/>
+    <item
+        android:id="@+id/secondFragment"
+        android:title="Chats"
+        android:icon="@drawable/ic_chat_24px"/>
+    <item
+        android:id="@+id/thirdFragment"
+        android:title="Points"
+        android:icon="@drawable/ic_insert_chart_24px"/>
+</menu>
